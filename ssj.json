@@ -1,0 +1,9 @@
+{
+	"url": "https://ashishdoneriya.github.io",
+	"baseUrl" : "/",
+	"title" : "My Workbook",
+	"description": "This website contains my notes",
+	"theme" : "https://github.com/ashishdoneriya/winterwind-ssj-theme",
+	"paginationEnabled" : false,
+	"author": "ashishdoneriya"
+}
