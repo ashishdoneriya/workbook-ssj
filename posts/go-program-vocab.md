@@ -7,7 +7,7 @@ tags : ["programming"]
 summary : ""
 ---
 
-```golang
+```go
 package main
 
 import (
