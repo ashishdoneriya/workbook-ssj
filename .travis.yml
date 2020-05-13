@@ -1,3 +1,6 @@
+os : linux
+dist: xenial
+language : generic
 jdk:
   - oraclejdk9
 
@@ -11,10 +14,12 @@ branches:
   - /pages-(.*)/ # test every branch which starts with "pages-"
   
 deploy:
+  provider: pages
+  strategy: git
   repo: ashishdoneriya/ashishdoneriya.github.io
-  target-branch: master
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
+  target_branch: master
+  cleanup: false
+  token: $GITHUB_TOKEN
   local_dir: dist
   on:
     branch: master
