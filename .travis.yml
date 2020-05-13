@@ -1,7 +1,10 @@
-jdk:
-  - oraclejdk9
+language: generic
+addons:
+  apt:
+    packages:
+      - oracle-java8-set-default
 
-install: java -jar binaries/ssj.jar --build
+install: /usr/lib/jvm/java-8-oracle/jre/bin/java -jar binaries/ssj.jar --build
 
 # branch whitelist
 branches:
