@@ -1,6 +1,6 @@
 language: java
 
-install: java binaries/ssj.jar
+install: java -jar binaries/ssj.jar --build
 
 # branch whitelist
 branches:
