@@ -14,11 +14,12 @@ summary : "A list of some useful websites"
 
 ## Coding
 
+* [LeetCode](https://leetcode.com/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [CareerCup](https://www.careercup.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Sphere online judge](https://www.spoj.com/)
-* [TopCoder] (https://www.topcoder.com/)
+* [TopCoder](https://www.topcoder.com/)
 * [CodeForces](http://codeforces.com/)
 * [Quora Strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months/answer/Anudeep-Nekkanti)
 * [Exercism](https://exercism.io/)
