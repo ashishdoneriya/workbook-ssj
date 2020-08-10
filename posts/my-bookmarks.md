@@ -1,7 +1,7 @@
 ---
 title : "My Bookmarks"
 created : "2018-12-27T22:00:00+05:30"
-updated : "2019-01-07T21:00:00+05:30"
+updated : "2020-09-07T21:00:00+05:30"
 categories : ["lists"]
 tags : ["lists"]
 summary : "A list of some useful websites"
@@ -52,7 +52,7 @@ summary : "A list of some useful websites"
 * [Top Documentry films](https://topdocumentaryfilms.com/)
 * [Snes Games](http://www.snesfun.com/)
 * [Reveal.js | Html Presentation Framework](https://revealjs.com/)
-* [Supercook |  Receipe search by ingredients you have at home] (https://www.supercook.com)
+* [Supercook |  Receipe search by ingredients you have at home](https://www.supercook.com)
 
 ## Other
 
@@ -95,7 +95,6 @@ summary : "A list of some useful websites"
 
 ## Spiritual
 * [Krsna Kirtana Songs](http://kksongs.org/)
-* [http://www.radhanathswami.us/page/jokes-1]
 * [Krishna Path](http://www.krishnapath.org/)
 
 ## Tech News Info & Tutorial
