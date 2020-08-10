@@ -27,7 +27,7 @@ summary : "A list of some good tv series"
 * [Young Sheldon](https://www.imdb.com/title/tt6226232/) - Prime
 * [The Big Bang Theory ](https://www.imdb.com/title/tt0898266/) - Prime
 * [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/) - Netflix
-* [Good Omens](https://www.imdb.com/title/tt1869454/)(Fiction) - Prime
+* [Good Omens](https://www.imdb.com/title/tt1869454/) (Fiction) - Prime
 
 ## Crime
 * [Better Call Saul](https://www.imdb.com/title/tt3032476/) - Netflix
