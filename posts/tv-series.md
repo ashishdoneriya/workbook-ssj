@@ -1,7 +1,7 @@
 ---
 title : "TV Series"
 created : "2019-01-07T22:00:00+05:30"
-updated : "2019-01-07T22:00:00+05:30"
+updated : "2020-08-09T22:00:00+05:30"
 categories : ["lists"]
 tags : ["tv"]
 summary : "A list of some good tv series"
