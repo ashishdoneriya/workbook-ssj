@@ -106,3 +106,6 @@ summary : "A list of some useful websites"
 
 ### VSCode
 * [Show error "Cannot find module" although I have typings folder](https://github.com/Microsoft/vscode/issues/1915)
+
+## Timepass
+* [WindowSwap](https://www.window-swap.com/) - Open a new windows somewhere in the world
