@@ -4,7 +4,7 @@ created : "2019-09-05T22:00:00+05:30"
 updated : "2019-09-05T22:00:00+05:30"
 categories : ["english"]
 tags : ["english"]
-summary : "guide"
+summary : "Guide to english pronounciation in hindi"
 ---
 
 <table width="500" border="0" cellspacing="0" cellpadding="0">

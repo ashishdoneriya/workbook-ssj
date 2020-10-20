@@ -1,10 +1,10 @@
 ---
 title : "Investing Resources"
 created : "2019-11-08T22:00:00+05:30"
-updated : "2019-11-08T22:00:00+05:30"
+updated : "2020-10-21T01:00:00+05:30"
 categories : ["finance"]
 tags : ["finance"]
-summary : "Investing resources"
+summary : "Books and Blogs related to investing"
 ---
 
 ## Books :

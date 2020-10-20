@@ -4,7 +4,7 @@ created : "2019-11-09T22:00:00+05:30"
 updated : "2019-11-09T22:00:00+05:30"
 categories : ["finance"]
 tags : ["finance"]
-summary : "Investing notes"
+summary : "Warren Buffett and Benjamin Graham investing notes"
 ---
 
 The Warren Buffett Way

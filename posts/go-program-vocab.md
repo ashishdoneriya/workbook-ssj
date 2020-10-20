@@ -4,7 +4,7 @@ created : "2019-08-27T22:10:00+05:30"
 updated : "2019-09-01T22:10:00+05:30"
 categories : ["programming"]
 tags : ["programming"]
-summary : ""
+summary : "Program in golang for learning vocabulary"
 ---
 
 ```go

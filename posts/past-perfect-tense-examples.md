@@ -4,6 +4,8 @@ created : "2019-08-27T22:00:00+05:30"
 updated : "2019-08-27T22:00:00+05:30"
 categories : ["english"]
 tags : ["english"]
+summary : "When and how to use past perfect tense"
+
 ---
 
 The past perfect tense is used to show that something happened before another action in the past. It can also be used to show that something happened before a specific time in the past.

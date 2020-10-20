@@ -4,9 +4,10 @@ created : "2019-03-06T03:17:00+05:30"
 updated : "2019-03-06T03:17:00+05:30"
 categories : ["java"]
 tags : ["java"]
+summary : "Questions related to OOPs"
 ---
 
-### Termiologies
+## Termiologies
 
 1. Class
 2. Object

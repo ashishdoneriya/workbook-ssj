@@ -4,6 +4,7 @@ created : "2019-02-21T01:43:00+05:30"
 updated : "2019-02-21T01:43:00+05:30"
 categories : ["big-data"]
 tags : ["kafka"]
+summary : "Difference between Topic and Partition in Apache Kafka"
 ---
 
 Partitions in Kafka are like buckets within a topic used for better load balancing when you are dealing with large throughput where you can as many consumers as your partitions to process your data. For example if you are processing orders you can send all orders for iPad into one partition “0” and iPhones in another partition “1” of the same Orders Topic and you can have two services one processing iPhone order from partition “1” and iPad from partition “0” and also maintain ordering of messages per partition. If a consumer service goes down the another service will pickup messages from both partition until another service comes backup into same consumer group processing orders topic.

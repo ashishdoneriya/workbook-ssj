@@ -1,7 +1,7 @@
 ---
 title : "Growth Stocks"
 created : "2018-12-27T22:00:00+05:30"
-updated : "2018-12-27T22:00:00+05:30"
+updated : "2020-10-21T22:00:00+05:30"
 categories : ["finance"]
 tags : ["finance"]
 summary : "A small list of growth companies"
@@ -21,7 +21,6 @@ summary : "A small list of growth companies"
 
 **Banks - Private Sector**
 
- * Yes Bank (Management Not Good)
  * HDFC Bank :star: :star: :star: (5Y - 25%, 10Y - 25%)
  * Indusind Bank Ltd
  * Kotak Mahindra Bank :star: (crisis in recession, took 5 Years to recover) (5Y - 26%, 10Y - 11%)

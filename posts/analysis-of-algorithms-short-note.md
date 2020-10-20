@@ -4,7 +4,7 @@ created : "2019-08-25T22:00:00+05:30"
 updated : "2019-08-25T22:00:00+05:30"
 categories : ["programming"]
 tags : ["programming"]
-summary : ""
+summary : "Important questions related to algorithms"
 ---
 
 ### What is an Algorithm?
