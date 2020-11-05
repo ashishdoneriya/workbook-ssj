@@ -23,6 +23,7 @@ summary : "A list of some good tv series"
 * [Kung Fu Panda: The Paws of Destiny](https://www.imdb.com/title/tt8271176/) - Prime
 * [Castlevania](https://www.imdb.com/title/tt6517102/) - Netflix
 * [Dragon Ball Z](https://kissanime.ru/Anime/Dragon-Ball-Z-Dub)
+* [Final Space](https://www.imdb.com/title/tt6317068/) - Netflix
 
 ## Comedy
 * [Young Sheldon](https://www.imdb.com/title/tt6226232/) - Prime
