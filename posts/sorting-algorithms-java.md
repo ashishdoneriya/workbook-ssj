@@ -7,7 +7,8 @@ tags : ["github"]
 summary : "Sorting algorithms implementation using Java"
 ---
 
-## Quick Sort
+## [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
+
 ```java
 public class QuickSort {
 
