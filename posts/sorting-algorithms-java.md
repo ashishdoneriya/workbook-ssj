@@ -60,4 +60,53 @@ public class QuickSort {
 
 }
 
+## [Selection Sort](https://www.geeksforgeeks.org/selection-sort/)
+
+```java
+
+public class SelectionSort {
+
+	public static void main(String[] args) {
+		int[] arr = new int[] { 4, 1, 4, 6, 21, 3, 7, 2, 5, 67, 52, 3, 23, 6, 2, 2 };
+		sort(arr);
+		print(arr);
+	}
+
+	private static void print(int[] arr) {
+		for (int num : arr) {
+			System.out.print(num + " ");
+		}
+	}
+
+	private static void sort(int[] arr) {
+		for (int i = 0; i < arr.length - 1; i++) {
+			int minIndex = findMinimumNumberIndex(arr, i + 1);
+			swap(arr, i, minIndex);
+		}
+	}
+
+	private static void swap(int[] arr, int i, int j) {
+		if (i == j) {
+			return;
+		}
+		int temp = arr[i];
+		arr[i] = arr[j];
+		arr[j] = temp;
+	}
+
+	private static int findMinimumNumberIndex(int[] arr, int startIndex) {
+		int minNumber = arr[startIndex];
+		int minIndex = startIndex;
+		for (int i = startIndex + 1; i < arr.length; i++) {
+			if (minNumber > arr[i]) {
+				minNumber = arr[i];
+				minIndex = i;
+			}
+		}
+		return minIndex;
+	}
+
+}
+```
+
 ```
