@@ -59,11 +59,11 @@ public class QuickSort {
 	}
 
 }
+```
 
 ## [Selection Sort](https://www.geeksforgeeks.org/selection-sort/)
 
 ```java
-
 public class SelectionSort {
 
 	public static void main(String[] args) {
