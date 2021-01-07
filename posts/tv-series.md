@@ -19,6 +19,7 @@ summary : "A list of some good tv series"
 * [The Unbrella Academy](https://www.imdb.com/title/tt1312171/) - Netflix
 * [The Expanse](https://www.imdb.com/title/tt3230854/) (SciFi) - Prime
 * [Game of Thrones](https://www.imdb.com/title/tt0944947) - Hotstar
+* [Watchmen](https://www.imdb.com/title/tt7049682/)
 * [Good Omens](https://www.imdb.com/title/tt1869454/) (Fiction) - Prime
 * [Dark Matter](https://www.imdb.com/title/tt4159076) (SciFi, cancelled in the middle)
 
