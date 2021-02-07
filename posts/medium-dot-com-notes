@@ -6,9 +6,10 @@ categories : ["software-engineering"]
 tags : ["java"]
 summary : "This page contains my medium.com notes"
 ---
+v1
 
-## Norms to follow  
+### Norms to follow  
 Architectural Decision Records
 
-### [Handling Concurrent Requests in a RESTful API](https://medium.com/swlh/handling-concurrent-requests-in-a-restful-api-5a25a4b81a1)  
+### Handling Concurrent Requests in a RESTful API https://medium.com/swlh/handling-concurrent-requests-in-a-restful-api-5a25a4b81a1  
 By using Optimistic locking (checking existing version in database while updating).
