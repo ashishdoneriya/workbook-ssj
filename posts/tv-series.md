@@ -45,3 +45,7 @@ summary : "A list of some good tv series"
 * [DC's Legends of Tomorrow ](https://www.imdb.com/title/tt4532368/) (Adventure / Comedy / SciFi / Fantasy)
 * [The Flash](https://www.imdb.com/title/tt3107288/) (SciFi)
 
+## Others
+* [Westworld](https://www.imdb.com/title/tt0475784/)
+* [Taboo](https://www.imdb.com/title/tt3647998/)
+* [Arrow](https://www.imdb.com/title/tt2193021/)
