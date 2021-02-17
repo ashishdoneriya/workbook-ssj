@@ -21,3 +21,7 @@ The java.lang.Thread class contains a static State enum — which defines its po
 * **TIMED_WAITING** — waiting for some other thread to perform a specific action for a specified period
 * **BLOCKED** — waiting to acquire a lock to enter or re-enter a synchronized block/method
 * **TERMINATED** — has completed its execution
+
+### [Be Careful With Java Parallel Streams](https://levelup.gitconnected.com/be-careful-with-java-parallel-streams-3ed0fd70c3d0)
+* Donot use parallelStream in LinkedList, BufferredReader etc.
+* Java Streams use ForkJoinPool to launch parallel executions.
