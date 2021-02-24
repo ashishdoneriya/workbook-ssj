@@ -7,18 +7,18 @@ tags : ["finance"]
 summary : "A small list of growth companies"
 ---
 
-ITC
-HDFC Bank
-Bajaj Finance
-SBI Cards
-HDFC Life Insurance
-Pidilite
-Asian Paints
-Whirlpool
-Dr. Lal Path Labs
-Havels
-VGuard
-Titan
+* ITC
+* HDFC Bank
+* Bajaj Finance
+* SBI Cards
+* HDFC Life Insurance
+* Pidilite
+* Asian Paints
+* Whirlpool
+* Dr. Lal Path Labs
+* Havels
+* VGuard
+* Titan
 
 
 **Ceramics & Granite**
