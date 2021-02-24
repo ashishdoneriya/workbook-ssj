@@ -1,7 +1,7 @@
 ---
 title : "My medium.com website notes"
 created : "2021-02-07T15:00:00+05:30"
-updated : "2021-02-07T15:00:00+05:30"
+updated : "2021-02-20T15:00:00+05:30"
 categories : ["software-engineering"]
 tags : ["java"]
 summary : "This page contains my medium.com notes"
@@ -25,3 +25,10 @@ The java.lang.Thread class contains a static State enum — which defines its po
 ### [Be Careful With Java Parallel Streams](https://levelup.gitconnected.com/be-careful-with-java-parallel-streams-3ed0fd70c3d0)
 * Donot use parallelStream in LinkedList, BufferredReader etc.
 * Java Streams use ForkJoinPool to launch parallel executions.
+
+### [From Coding Bootcamp Graduate to Building Distributed Databases](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8)
+* Learn Computer Fundamentals like DS & A, OS, Computer Architecture Networking.
+* When using something, learn how it works, its internals also.
+* The goal of these side projects is to condense years of experience and skills into the shortest amount of time.
+* The side projects also serve as an opportunity to develop skill sets that you wish to acquire, but that you wouldn’t otherwise get to develop at your day job.
+* Whatever niche you settle on, try and spend at least two years working on a meaty problem in that space. Spending at least two years on the same “problem” is important because it’s how you develop depth.
