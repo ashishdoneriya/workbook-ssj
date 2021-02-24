@@ -1,11 +1,25 @@
 ---
 title : "Growth Stocks"
 created : "2018-12-27T22:00:00+05:30"
-updated : "2020-10-21T22:00:00+05:30"
+updated : "2021-02-20T22:00:00+05:30"
 categories : ["finance"]
 tags : ["finance"]
 summary : "A small list of growth companies"
 ---
+
+ITC
+HDFC Bank
+Bajaj Finance
+SBI Cards
+HDFC Life Insurance
+Pidilite
+Asian Paints
+Whirlpool
+Dr. Lal Path Labs
+Havels
+VGuard
+Titan
+
 
 **Ceramics & Granite**
 
