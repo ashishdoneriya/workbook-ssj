@@ -2,7 +2,7 @@
 title : "Interesting & Useful Github Projects"
 created : "2020-08-24T01:43:00+05:30"
 updated : "2020-08-24T01:43:00+05:30"
-categories : ["lists", "programming"]
+categories : ["lists", "software-engineering"]
 tags : ["github"]
 summary : "List of some interesting and using Github projects"
 ---
