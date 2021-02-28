@@ -2,7 +2,7 @@
 title : "Some Important hive syntax"
 created : "2019-08-06T03:17:00+05:30"
 updated : "2019-08-06T03:17:00+05:30"
-categories : ["big-data"]
+categories : ["software-engineering"]
 tags : ["hive"]
 summary : "Some Important hive syntax"
 ---
