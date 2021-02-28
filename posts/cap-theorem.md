@@ -17,11 +17,17 @@ summary : "Detail guide on cap theorem"
 
 Consistency - Availability - Partition Tolerance
 
-## Consistency
-Data should be upto date in every node
+## Partition Tolerance
+If one node fails, other nodes would continue to operate.
 
 ## Availability
 Data should be avaiable in different nodes. It means data should be replicated across nodes. If one node goes down then the data of that node should be available in other nodes also.
 
-## Partition Tolerance
-If one node fails, other nodes would continue to operate.
+## Consistency
+Data should be upto date in every node.
+
+Let me tell you why it is not possible to Consistency and Availability to coexist. Lets assume we write some data to a node A. When the node A is replicating the data to other nodes for the sake of availability then at the same time user reads the data from a different node in which the data has not been replicated yet. But according to consistency it is wrong.
+
+
+
+
