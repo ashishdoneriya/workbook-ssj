@@ -26,7 +26,11 @@ Data should be avaiable in different nodes. It means data should be replicated a
 ## Consistency
 Data should be upto date in every node.
 
+## Types of Consistency
+[https://robertovitillo.medium.com/what-every-developer-should-know-about-database-consistency-cff3183913cb](https://robertovitillo.medium.com/what-every-developer-should-know-about-database-consistency-cff3183913cb)
+
 Let me tell you why it is not possible to Consistency and Availability to coexist. Lets assume we write some data to a node A. When the node A is replicating the data to other nodes for the sake of availability then at the same time user reads the data from a different node in which the data has not been replicated yet. But according to consistency it is wrong.
+
 
 
 
