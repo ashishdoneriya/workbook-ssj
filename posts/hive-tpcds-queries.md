@@ -2,7 +2,7 @@
 title : "Hive tpcds query"
 created : "2019-09-04T03:17:00+05:30"
 updated : "2019-09-04T03:17:00+05:30"
-categories : ["big-data"]
+categories : ["software-engineering"]
 tags : ["hive"]
 summary : "Hive tpcds query"
 ---
