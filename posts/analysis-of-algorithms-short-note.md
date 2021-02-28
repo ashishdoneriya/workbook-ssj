@@ -2,7 +2,7 @@
 title : "Short notes on Algorithms"
 created : "2019-08-25T22:00:00+05:30"
 updated : "2019-08-25T22:00:00+05:30"
-categories : ["programming"]
+categories : ["software-engineering"]
 tags : ["programming"]
 summary : "Important questions related to algorithms"
 ---
