@@ -2,7 +2,7 @@
 title : "Sorting algorithms implementation using Java"
 created : "2020-11-28T11:03:00+05:30"
 updated : "2020-11-28T11:03:00+05:30"
-categories : ["programming"]
+categories : ["software-engineering"]
 tags : ["github"]
 summary : "Sorting algorithms implementation using Java"
 ---
