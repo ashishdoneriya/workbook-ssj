@@ -2,7 +2,7 @@
 title : "Go program for vocabulary"
 created : "2019-08-27T22:10:00+05:30"
 updated : "2019-09-01T22:10:00+05:30"
-categories : ["programming"]
+categories : ["software-engineering"]
 tags : ["programming"]
 summary : "Program in golang for learning vocabulary"
 ---
