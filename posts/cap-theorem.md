@@ -21,7 +21,7 @@ Consistency - Availability - Partition Tolerance
 Data should be upto date in every node
 
 ## Availability
-Data should be avaiable in every node
+Data should be avaiable in different nodes. It means data should be replicated across nodes. If one node goes down then the data of that node should be available in other nodes also.
 
 ## Partition Tolerance
 If one node fails, other nodes would continue to operate.
