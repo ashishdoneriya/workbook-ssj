@@ -2,7 +2,7 @@
 title : "What is the difference between Topic and Partition in Apache Kafka"
 created : "2019-02-21T01:43:00+05:30"
 updated : "2019-02-21T01:43:00+05:30"
-categories : ["big-data"]
+categories : ["software-engineering"]
 tags : ["kafka"]
 summary : "Difference between Topic and Partition in Apache Kafka"
 ---
