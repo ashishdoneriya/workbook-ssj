@@ -2,7 +2,7 @@
 title : "How to create executable jar in maven"
 created : "2019-03-31T03:17:00+05:30"
 updated : "2019-03-31T03:17:00+05:30"
-categories : ["java"]
+categories : ["software-engineering"]
 tags : ["java", "maven"]
 summary : "Snippet code to create an executable jar in maven"
 ---
