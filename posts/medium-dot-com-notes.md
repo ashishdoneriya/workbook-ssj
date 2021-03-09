@@ -32,3 +32,12 @@ The java.lang.Thread class contains a static State enum — which defines its po
 * The goal of these side projects is to condense years of experience and skills into the shortest amount of time.
 * The side projects also serve as an opportunity to develop skill sets that you wish to acquire, but that you wouldn’t otherwise get to develop at your day job.
 * Whatever niche you settle on, try and spend at least two years working on a meaty problem in that space. Spending at least two years on the same “problem” is important because it’s how you develop depth.
+
+### [Steps to learn a new technology](https://betterprogramming.pub/my-4-step-strategy-to-learn-any-new-technology-quickly-c277299b35c)
+* Learn fundamental concepts.
+* Tutorials are a form of passive learning, which is inefficient. Taking tutorials might kill your interest because it can be boring to learn the syntax of a new language (e.g. "if you type this, you will see that…")
+* Speeding through the tutorial.
+* The goal is not to remember everything covered in the tutorial but rather to understand the concepts and know what the technology is capable of. You can easily look up the syntax later or review the tutorial while you practice.
+* Don't be afraid to ditch the current tutorial and go for another one
+* Build something, no matter how trivial.
+* Give Interview for that technology.
