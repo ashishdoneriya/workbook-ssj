@@ -41,3 +41,8 @@ The java.lang.Thread class contains a static State enum — which defines its po
 * Don't be afraid to ditch the current tutorial and go for another one
 * Build something, no matter how trivial.
 * Give Interview for that technology.
+
+### [How to Avoid Learning Mistakes](https://betterprogramming.pub/how-to-avoid-the-number-one-learning-mistake-a-lack-of-deliberate-practice-a17bff39eb70)
+* Lack of Planning
+* Do Regular Practice instead of one in a week
+* Lack of Focus - Do not code while watching tutorial video. Close all unnecessary tabs. Leave your phone in other room. Donot copy and paste code.
