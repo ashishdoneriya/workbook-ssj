@@ -46,3 +46,8 @@ The java.lang.Thread class contains a static State enum — which defines its po
 * Lack of Planning
 * Do Regular Practice instead of one in a week
 * Lack of Focus - Do not code while watching tutorial video. Close all unnecessary tabs. Leave your phone in other room. Donot copy and paste code.
+
+### [How I Got Into Google Without a CS Degree](https://betterprogramming.pub/how-i-got-into-google-without-a-cs-degree-f1d3c0a3f10e)
+* I approached my Google interview like the final exam of a college course. I wrote my own **syllabus**, created a weekly breakdown of topics to cover, found a textbook, assigned myself homework questions, set up a midterm exam, and studied my ass off.
+* Leetcode, GeeksForGeeks, Mock Interviews.
+* A friend of mine at FB told me to always be the one to suggest test cases. Don’t wait until the interviewer asks — be proactive. And my Google mock interviewer told me to treat the interviewer like my teammate. Work with them instead of against them. They want you to succeed, too.
