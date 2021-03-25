@@ -51,3 +51,9 @@ The java.lang.Thread class contains a static State enum — which defines its po
 * I approached my Google interview like the final exam of a college course. I wrote my own **syllabus**, created a weekly breakdown of topics to cover, found a textbook, assigned myself homework questions, set up a midterm exam, and studied my ass off.
 * Leetcode, GeeksForGeeks, Mock Interviews.
 * A friend of mine at FB told me to always be the one to suggest test cases. Don’t wait until the interviewer asks — be proactive. And my Google mock interviewer told me to treat the interviewer like my teammate. Work with them instead of against them. They want you to succeed, too.
+
+### [The Best Advice for Delivering Better Software](https://betterprogramming.pub/the-principles-of-software-development-7415e7c5a156)
+* Make it work, make it better, make it faster.
+* The first step is to make it work. Plain and simple. Making things work by violating principles of good design in a quick, hacky way is completely fine.
+* After that make your code better. Better code is Readable, Maintainable, Flexible. Strive to achieve these characteristics by applying modern practices as well as the famous SOLID and DRY principles.
+* Later you can make your code faster.
