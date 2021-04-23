@@ -57,3 +57,6 @@ The java.lang.Thread class contains a static State enum — which defines its po
 * The first step is to make it work. Plain and simple. Making things work by violating principles of good design in a quick, hacky way is completely fine.
 * After that make your code better. Better code is Readable, Maintainable, Flexible. Strive to achieve these characteristics by applying modern practices as well as the famous SOLID and DRY principles.
 * Later you can make your code faster.
+
+### Leaky Abstraction
+A leaky abstraction refers to any implemented abstraction, intended to reduce (or hide) complexity, where the underlying details are not completely hidden
