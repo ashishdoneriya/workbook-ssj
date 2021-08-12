@@ -25,14 +25,6 @@ summary : "A small list of growth companies"
 
  * Kajaria Ceramics
 
-**Auto - Cars & Jeeps**
-
- * Maruti Suzuki
-
-**Auto - LCVs & HCVs**
-
- * Eicher Motors
-
 **Banks - Private Sector**
 
  * HDFC Bank :star: :star: :star: (5Y - 25%, 10Y - 25%)
