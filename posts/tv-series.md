@@ -26,6 +26,7 @@ summary : "A list of some good tv series"
 ## Animation
 * [Kung Fu Panda: The Paws of Destiny](https://www.imdb.com/title/tt8271176/) - Prime
 * [Castlevania](https://www.imdb.com/title/tt6517102/) - Netflix
+* [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) - Prime
 
 ## Comedy
 * [Young Sheldon](https://www.imdb.com/title/tt6226232/) - Prime
