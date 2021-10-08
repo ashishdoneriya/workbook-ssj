@@ -11,8 +11,9 @@ summary : "A list of some good tv series"
 * [Dark](https://www.imdb.com/title/tt5753856/) (SciFi) - Netflix
 * [Game of Thrones](https://www.imdb.com/title/tt0944947) - Hotstar
 * [Altered Carbon](https://www.imdb.com/title/tt2261227/) (SciFi) - Netflix
-* [The Orville](https://www.imdb.com/title/tt5691552/) (SciFi / Comedy) - Hotstar
 * [Star Trek: Discovery](https://www.imdb.com/title/tt5171438/) (SciFi) - Netflix
+* [Good Omens](https://www.imdb.com/title/tt1869454/) (Fiction) - Prime
+* [The Orville](https://www.imdb.com/title/tt5691552/) (SciFi / Comedy) - Hotstar
 * [The Boys](https://www.imdb.com/title/tt1190634/) (SciFi / Fiction) - Prime
 * [Alice in Borderland](https://www.imdb.com/title/tt10795658/) (SciFi) - Netflix
 * [The Witcher](https://www.imdb.com/title/tt5180504/) (Fiction) - Netflix
@@ -20,7 +21,6 @@ summary : "A list of some good tv series"
 * [The Unbrella Academy](https://www.imdb.com/title/tt1312171/) - Netflix
 * [The Expanse](https://www.imdb.com/title/tt3230854/) (SciFi) - Prime
 * [Watchmen](https://www.imdb.com/title/tt7049682/) - Hotstar
-* [Good Omens](https://www.imdb.com/title/tt1869454/) (Fiction) - Prime
 * [Dark Matter](https://www.imdb.com/title/tt4159076) (SciFi, cancelled in the middle)
 
 ## Animation
@@ -29,8 +29,8 @@ summary : "A list of some good tv series"
 * [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/) - Prime
 
 ## Comedy
+* [The Big Bang Theory](https://www.imdb.com/title/tt0898266/) - Prime
 * [Young Sheldon](https://www.imdb.com/title/tt6226232/) - Prime
-* [The Big Bang Theory ](https://www.imdb.com/title/tt0898266/) - Prime
 * [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/) - Netflix
 
 ## Crime
