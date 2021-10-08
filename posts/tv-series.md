@@ -36,6 +36,7 @@ summary : "A list of some good tv series"
 * [Money Heist](https://www.imdb.com/title/tt6468322/) - Netflix
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/) - Netflix
 * [Better Call Saul](https://www.imdb.com/title/tt3032476/) - Netflix
+* [Lawless Lawyer](https://www.imdb.com/title/tt8160178/) - Netflix
 
 ## Stretchy Shows (No ending till now)
 * [Suits](https://www.imdb.com/title/tt1632701/) - Netflix
