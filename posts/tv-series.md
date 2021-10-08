@@ -19,16 +19,13 @@ summary : "A list of some good tv series"
 * [The Unbrella Academy](https://www.imdb.com/title/tt1312171/) - Netflix
 * [The Expanse](https://www.imdb.com/title/tt3230854/) (SciFi) - Prime
 * [Game of Thrones](https://www.imdb.com/title/tt0944947) - Hotstar
-* [Watchmen](https://www.imdb.com/title/tt7049682/)
+* [Watchmen](https://www.imdb.com/title/tt7049682/) - Hotstar
 * [Good Omens](https://www.imdb.com/title/tt1869454/) (Fiction) - Prime
 * [Dark Matter](https://www.imdb.com/title/tt4159076) (SciFi, cancelled in the middle)
 
 ## Animation
 * [Kung Fu Panda: The Paws of Destiny](https://www.imdb.com/title/tt8271176/) - Prime
 * [Castlevania](https://www.imdb.com/title/tt6517102/) - Netflix
-* [Demon Slayer](https://www.imdb.com/title/tt9335498/) - Netflix
-* [Dragon Ball Z](https://kissanime.ru/Anime/Dragon-Ball-Z-Dub)
-* [Final Space](https://www.imdb.com/title/tt6317068/) - Netflix
 
 ## Comedy
 * [Young Sheldon](https://www.imdb.com/title/tt6226232/) - Prime
@@ -39,6 +36,7 @@ summary : "A list of some good tv series"
 ## Crime
 * [Better Call Saul](https://www.imdb.com/title/tt3032476/) - Netflix
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/) - Netflix
+* [Money Heist](https://www.imdb.com/title/tt6468322/) - Netflix
 
 ## Stretchy Shows (No ending till now)
 * [Suits](https://www.imdb.com/title/tt1632701/) - Netflix
@@ -49,3 +47,12 @@ summary : "A list of some good tv series"
 * [Westworld](https://www.imdb.com/title/tt0475784/)
 * [Taboo](https://www.imdb.com/title/tt3647998/)
 * [Arrow](https://www.imdb.com/title/tt2193021/)
+
+## Anime
+* [Demon Slayer](https://www.imdb.com/title/tt9335498/) - Netflix
+* [Dragon Ball Z](https://kissanime.ru/Anime/Dragon-Ball-Z-Dub)
+* [Dr. Stone](https://www.imdb.com/title/tt9679542/) - Netflix
+* [My Hero Academia](https://www.imdb.com/title/tt5626028/) - Netflix
+* [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/) - Netflix
+* [Future Diary](https://www.imdb.com/title/tt2069441/) - Netflix
+* [One Punch Man](https://www.imdb.com/title/tt4508902/) - Netflix
