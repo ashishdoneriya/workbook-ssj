@@ -32,10 +32,9 @@ summary : "A list of some good tv series"
 * [The Big Bang Theory ](https://www.imdb.com/title/tt0898266/) - Prime
 * [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/) - Netflix
 
-
 ## Crime
-* [Better Call Saul](https://www.imdb.com/title/tt3032476/) - Netflix
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/) - Netflix
+* [Better Call Saul](https://www.imdb.com/title/tt3032476/) - Netflix
 * [Money Heist](https://www.imdb.com/title/tt6468322/) - Netflix
 
 ## Stretchy Shows (No ending till now)
@@ -45,14 +44,17 @@ summary : "A list of some good tv series"
 
 ## Others
 * [Westworld](https://www.imdb.com/title/tt0475784/)
-* [Taboo](https://www.imdb.com/title/tt3647998/)
 * [Arrow](https://www.imdb.com/title/tt2193021/)
+* [Designated Survivor](https://www.imdb.com/title/tt5296406/)
+* [Taboo](https://www.imdb.com/title/tt3647998/)
 
 ## Anime
 * [Demon Slayer](https://www.imdb.com/title/tt9335498/) - Netflix
 * [Dragon Ball Z](https://kissanime.ru/Anime/Dragon-Ball-Z-Dub)
 * [Dr. Stone](https://www.imdb.com/title/tt9679542/) - Netflix
-* [My Hero Academia](https://www.imdb.com/title/tt5626028/) - Netflix
-* [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/) - Netflix
 * [Future Diary](https://www.imdb.com/title/tt2069441/) - Netflix
 * [One Punch Man](https://www.imdb.com/title/tt4508902/) - Netflix
+* [That Time I Got Reincarnated as a Slime](https://www.imdb.com/title/tt9054364/) - Netflix
+* [My Hero Academia](https://www.imdb.com/title/tt5626028/) - Netflix
+* [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/) - Netflix
+* [Astra Lost in Space](https://www.imdb.com/title/tt10483250/) - Netflix
