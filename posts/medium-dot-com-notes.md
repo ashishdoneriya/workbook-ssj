@@ -1,7 +1,7 @@
 ---
 title : "My medium.com website notes"
 created : "2021-02-07T15:00:00+05:30"
-updated : "2021-03-09T15:00:00+05:30"
+updated : "2022-04-20T10:00:00+05:30"
 categories : ["software-engineering"]
 tags : ["java"]
 summary : "This page contains my medium.com notes"
@@ -60,3 +60,8 @@ The java.lang.Thread class contains a static State enum — which defines its po
 
 ### Leaky Abstraction
 A leaky abstraction refers to any implemented abstraction, intended to reduce (or hide) complexity, where the underlying details are not completely hidden
+
+### [I got back to DSA without stressing myself](https://medium.com/@chitransh.aang/i-got-back-to-dsa-without-stressing-myself-here-is-how-it-can-be-done-while-working-a-full-time-b17cab187f9f)
+* Prepare a github repo for your codes, make proper documentations of each of your problem, be it pen-paper approach (Upload image in that case), or make absolutely gigantic but clear comments about all the approaches that you tried, what worked and what did not work, why the failed approach did not work, mention everything.
+* Revision is sort of important, so make your own milestone of when to do revision. But in case there is any concept that is you struggled with, get back to it after 1 week or so and make you sure you understand that concept.
+* The point of revision is to solidify the concept, not cramming the solution of any particular problem
